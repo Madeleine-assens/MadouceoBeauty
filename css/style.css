@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Signika&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Signika', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+}
+h1, h2, h3 {
+	font-family: 'Archivo Black', sans-serif;
+	font-weight: bold;
+}
+h4{
+	font-family: 'Archivo Black', sans-serif;
+	font-weight: bold;
+	color:#C1A3A3 ;
+	font-size: 25px;
+
+}
+a {
+	text-decoration: none;
+}
